@@ -1,0 +1,119 @@
+/* 
+  Localizable.strings
+  GitHubUsers
+  
+  English Localization
+*/
+
+// MARK: - General
+"app.name" = "GitHub Users";
+"app.version" = "Version";
+"app.build" = "Build";
+
+// MARK: - Navigation
+"nav.users" = "GitHub Users";
+"nav.repositories" = "Repositories";
+"nav.favorites" = "Favorites";
+"nav.settings" = "Settings";
+"nav.done" = "Done";
+
+// MARK: - Search
+"search.placeholder" = "Search users...";
+"search.recent" = "Recent Searches";
+"search.clear" = "Clear";
+"search.no.results" = "No users found";
+"search.try.different" = "Try a different search query";
+"search.start" = "Search for GitHub users";
+"search.enter.username" = "Enter a username to start searching";
+
+// MARK: - User
+"user.repos" = "Repos";
+"user.followers" = "Followers";
+"user.following" = "Following";
+"user.open.profile" = "Open GitHub Profile";
+"user.not.found" = "User not found";
+"user.avatar" = "User avatar";
+
+// MARK: - Repository
+"repo.stars" = "Stars";
+"repo.forks" = "Forks";
+"repo.watchers" = "Watchers";
+"repo.issues" = "Issues";
+"repo.open.safari" = "Open in Safari";
+"repo.share.clone" = "Share Clone URL";
+"repo.no.repositories" = "No repositories found";
+"repo.try.filters" = "Try adjusting your filters";
+"repo.tap.details" = "Tap for details";
+"repo.repositories" = "repos";
+
+// MARK: - Repository Detail
+"repo.detail.dates" = "Dates";
+"repo.detail.created" = "Created";
+"repo.detail.updated" = "Updated";
+"repo.detail.pushed" = "Pushed";
+"repo.detail.topics" = "Topics";
+"repo.detail.private" = "Private";
+"repo.detail.archived" = "Archived";
+"repo.detail.fork" = "Fork";
+
+// MARK: - Favorites
+"favorites.title" = "Favorites";
+"favorites.empty" = "No favorites yet";
+"favorites.add.hint" = "Add users to favorites to see them here";
+
+// MARK: - Settings
+"settings.title" = "Settings";
+"settings.about" = "About";
+"settings.storage" = "Storage";
+"settings.clear.cache" = "Clear Cache";
+"settings.cache.cleared" = "Cache cleared successfully";
+"settings.cache.description" = "Clearing cache will remove all cached data. You'll need internet connection to load data again.";
+"settings.links" = "Links";
+"settings.language" = "Language";
+"settings.theme" = "Theme";
+"settings.theme.system" = "System";
+"settings.theme.light" = "Light";
+"settings.theme.dark" = "Dark";
+
+// MARK: - Sort
+"sort.title" = "Sort Options";
+"sort.by" = "Sort By";
+"sort.order" = "Order";
+"sort.created" = "Created";
+"sort.updated" = "Updated";
+"sort.pushed" = "Pushed";
+"sort.name" = "Name";
+"sort.stars" = "Stars";
+"sort.ascending" = "Ascending";
+"sort.descending" = "Descending";
+
+// MARK: - Filters
+"filter.all.languages" = "All Languages";
+"filter.language" = "Language";
+
+// MARK: - Actions
+"action.share" = "Share";
+"action.open" = "Open";
+"action.open.safari" = "Open in Safari";
+"action.retry" = "Retry";
+
+// MARK: - States
+"state.loading" = "Loading...";
+"state.error" = "Error";
+"state.no.more.users" = "No more users";
+"state.no.more.repos" = "No more repositories";
+
+// MARK: - Errors
+"error.network" = "Network error";
+"error.not.found" = "User not found";
+"error.unauthorized" = "Unauthorized access";
+"error.rate.limit" = "Rate limit exceeded. Please try again later.";
+"error.unknown" = "Unknown error occurred";
+"error.validation.failed" = "Validation failed";
+
+// MARK: - Alerts
+"alert.clear.cache.title" = "Clear Cache";
+"alert.clear.cache.message" = "Are you sure you want to clear all cached data? This action cannot be undone.";
+"alert.clear.cache.cancel" = "Cancel";
+"alert.clear.cache.confirm" = "Clear";
+

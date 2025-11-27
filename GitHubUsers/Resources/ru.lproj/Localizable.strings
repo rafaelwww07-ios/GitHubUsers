@@ -1,0 +1,119 @@
+/* 
+  Localizable.strings
+  GitHubUsers
+  
+  Russian Localization
+*/
+
+// MARK: - General
+"app.name" = "Пользователи GitHub";
+"app.version" = "Версия";
+"app.build" = "Сборка";
+
+// MARK: - Navigation
+"nav.users" = "Пользователи GitHub";
+"nav.repositories" = "Репозитории";
+"nav.favorites" = "Избранное";
+"nav.settings" = "Настройки";
+"nav.done" = "Готово";
+
+// MARK: - Search
+"search.placeholder" = "Поиск пользователей...";
+"search.recent" = "Недавние поиски";
+"search.clear" = "Очистить";
+"search.no.results" = "Пользователи не найдены";
+"search.try.different" = "Попробуйте другой поисковый запрос";
+"search.start" = "Поиск пользователей GitHub";
+"search.enter.username" = "Введите имя пользователя для начала поиска";
+
+// MARK: - User
+"user.repos" = "Репозитории";
+"user.followers" = "Подписчики";
+"user.following" = "Подписки";
+"user.open.profile" = "Открыть профиль GitHub";
+"user.not.found" = "Пользователь не найден";
+"user.avatar" = "Аватар пользователя";
+
+// MARK: - Repository
+"repo.stars" = "Звёзды";
+"repo.forks" = "Форки";
+"repo.watchers" = "Наблюдатели";
+"repo.issues" = "Проблемы";
+"repo.open.safari" = "Открыть в Safari";
+"repo.share.clone" = "Поделиться URL клонирования";
+"repo.no.repositories" = "Репозитории не найдены";
+"repo.try.filters" = "Попробуйте изменить фильтры";
+"repo.tap.details" = "Нажмите для деталей";
+"repo.repositories" = "репозиториев";
+
+// MARK: - Repository Detail
+"repo.detail.dates" = "Даты";
+"repo.detail.created" = "Создан";
+"repo.detail.updated" = "Обновлён";
+"repo.detail.pushed" = "Последний push";
+"repo.detail.topics" = "Темы";
+"repo.detail.private" = "Приватный";
+"repo.detail.archived" = "Архивирован";
+"repo.detail.fork" = "Форк";
+
+// MARK: - Favorites
+"favorites.title" = "Избранное";
+"favorites.empty" = "Пока нет избранного";
+"favorites.add.hint" = "Добавьте пользователей в избранное, чтобы увидеть их здесь";
+
+// MARK: - Settings
+"settings.title" = "Настройки";
+"settings.about" = "О приложении";
+"settings.storage" = "Хранилище";
+"settings.clear.cache" = "Очистить кэш";
+"settings.cache.cleared" = "Кэш успешно очищен";
+"settings.cache.description" = "Очистка кэша удалит все кэшированные данные. Вам понадобится интернет-соединение для загрузки данных снова.";
+"settings.links" = "Ссылки";
+"settings.language" = "Язык";
+"settings.theme" = "Тема";
+"settings.theme.system" = "Системная";
+"settings.theme.light" = "Светлая";
+"settings.theme.dark" = "Тёмная";
+
+// MARK: - Sort
+"sort.title" = "Параметры сортировки";
+"sort.by" = "Сортировать по";
+"sort.order" = "Порядок";
+"sort.created" = "Дате создания";
+"sort.updated" = "Дате обновления";
+"sort.pushed" = "Дате push";
+"sort.name" = "Имени";
+"sort.stars" = "Звёздам";
+"sort.ascending" = "По возрастанию";
+"sort.descending" = "По убыванию";
+
+// MARK: - Filters
+"filter.all.languages" = "Все языки";
+"filter.language" = "Язык";
+
+// MARK: - Actions
+"action.share" = "Поделиться";
+"action.open" = "Открыть";
+"action.open.safari" = "Открыть в Safari";
+"action.retry" = "Повторить";
+
+// MARK: - States
+"state.loading" = "Загрузка...";
+"state.error" = "Ошибка";
+"state.no.more.users" = "Больше нет пользователей";
+"state.no.more.repos" = "Больше нет репозиториев";
+
+// MARK: - Errors
+"error.network" = "Ошибка сети";
+"error.not.found" = "Пользователь не найден";
+"error.unauthorized" = "Несанкционированный доступ";
+"error.rate.limit" = "Превышен лимит запросов. Пожалуйста, попробуйте позже.";
+"error.unknown" = "Произошла неизвестная ошибка";
+"error.validation.failed" = "Ошибка валидации";
+
+// MARK: - Alerts
+"alert.clear.cache.title" = "Очистить кэш";
+"alert.clear.cache.message" = "Вы уверены, что хотите очистить все кэшированные данные? Это действие нельзя отменить.";
+"alert.clear.cache.cancel" = "Отмена";
+"alert.clear.cache.confirm" = "Очистить";
+
