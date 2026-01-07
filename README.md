@@ -6,6 +6,8 @@ A comprehensive iOS application demonstrating Senior iOS Developer skills, built
 
 GitHub Users is a feature-rich iOS application for searching and exploring GitHub users and repositories. The app showcases professional iOS development practices including Clean Architecture, MVVM pattern, async/await, Combine, localization, widgets, and comprehensive testing.
 
+![GitHub Users iOS App](GitHubUsersIos.png)
+
 ## ✨ Features
 
 ### Core Functionality
@@ -108,7 +110,7 @@ Test coverage:
 
 ## 📸 Screenshots
 
-> Add screenshots to `Screenshots/` directory
+![GitHub Users iOS App](GitHubUsersIos.png)
 
 ## 📝 License
 
